@@ -52,7 +52,7 @@ Ensure the following are installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/German-English-Translation-Transformers.git
+   git clone https://github.com/Jonam-2004/German-English-Translator-Transformers.git
    cd German-English-Translation-Transformers
    ```
 
