@@ -23,14 +23,14 @@ The project aims to leverage the power of sequence-to-sequence (Seq2Seq) neural 
 ```plaintext
 .
 ├── README.md         # Project overview and instructions
-├── report.pdf        # Detailed project report (uploaded document)
 ├── src/              # Source code for the translation models
 │   ├── model.py      # Transformer model implementation
 │   ├── train.py      # Training and evaluation scripts
 │   └── utils.py      # Utility functions for preprocessing and visualization
-├── data/             # Multi30K dataset files
-├── results/          # Visualizations and results (e.g., attention maps, BLEU scores)
-├── models/           # Saved model checkpoints
+├── Figures/            # Multi30K dataset files
+│   ├── results/
+│   ├── Proposed system/
+│   ├── Sample Dataset/            # Visualizations and results (e.g., attention maps, BLEU scores)
 └── requirements.txt  # List of dependencies
 ```
 
@@ -103,7 +103,7 @@ from src.utils import display_attention
 display_attention(sentence, translation, attention)
 ```
 ## Model Architecture
-
+###model 
 ![Model Architecture](Figures/Proposed System/System Architecture.png)
 
 ## Results
@@ -119,7 +119,7 @@ Contributions are welcome! Feel free to submit issues or pull requests for enhan
 ## Authors
 
 - [Manoj S](https://github.com/Jonam-2004)
--[Prasanna Venkatesh S](https://github.com/anna123venkat)
+- [Prasanna Venkatesh S](https://github.com/anna123venkat)
 - [Timothy Florian LV](https://github.com/TimothyFlorian)
 
 ## License
