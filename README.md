@@ -115,9 +115,9 @@ Contributions are welcome! Feel free to submit issues or pull requests for enhan
 
 ## Authors
 
-- Manoj S (9517202109032)
-- Prasanna Venkatesh S (9517202109040)
-- Timothy Florian LV (9517202109055)
+- [Manoj S](https://github.com/Jonam-2004)
+-[Prasanna Venkatesh S](https://github.com/anna123venkat)
+- [Timothy Florian LV](https://github.com/TimothyFlorian)
 
 ## License
 
