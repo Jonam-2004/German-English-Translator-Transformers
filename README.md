@@ -103,8 +103,7 @@ from src.utils import display_attention
 display_attention(sentence, translation, attention)
 ```
 ## Model Architecture
-###model 
-![Model Architecture](Figures/Proposed System/System Architecture.png)
+! [Model Architecture](Figures/Proposed System/System Architecture.png)
 
 ## Results
 
