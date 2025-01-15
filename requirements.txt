@@ -1,0 +1,7 @@
+torch
+spacy
+torchtext
+random
+matplotlib
+time
+numpy
