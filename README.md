@@ -1,6 +1,6 @@
 # German-English Translation using Transformers
 
-This repository contains the implementation of a machine translation model based on the Transformer architecture to translate text between German and English. The project is part of a mini-project for the 6th-semester Deep Learning Laboratory course at Mepco Schlenk Engineering College, Sivakasi.
+This repository contains the implementation of a machine translation model based on the Transformer architecture to translate text between German and English. The Transformer architecture is implemented in scratch in order to get the deep understanding of the architecture and data transformation in between. 
 
 ## Project Overview
 
